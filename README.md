@@ -1,4 +1,4 @@
-Smart Expense Tracker (CLI Project)
+Smart Expense Tracker 
 
 About the Project
 
